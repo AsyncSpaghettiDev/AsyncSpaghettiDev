@@ -10,6 +10,8 @@
 - Maria DB
 - React Native
 - C# (Windows Forms)
+
+
  
 - Horario:
 
