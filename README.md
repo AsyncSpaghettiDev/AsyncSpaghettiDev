@@ -11,9 +11,9 @@
 - React Native
 - C# (Windows Forms)
 
-Actually working on:
-eotApp
-eotapp.onrender.com
+Actually working on:  
+eotApp  
+eotapp.onrender.com  
 
  
 - Horario:
