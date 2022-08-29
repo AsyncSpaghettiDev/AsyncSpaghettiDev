@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**AsyncSpaghettiDev/AsyncSpaghettiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://avatars.githubusercontent.com/u/60447812?v=4" style="aspect-ratio: 1, width:150px, border-radius: 50%">
 
-Here are some ideas to get you started:
+- 🔭 I’m Frontend Web Developer
+- Technologies used:
+- React JS
+- Express
+- Node JS
+- Maria DB
+- React Native
+- C# (Windows Forms)
+ 
+- Horario:
+|       | L                                | M                                | X                                | J                                | V                                |
+|-------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
+| 13-14 | Taller de Investigación          | Taller de Investigación          | Taller de Investigación          | Taller de Investigación          |                                  |
+| 14-15 | Sistemas Programables            | Sistemas Programables            | Sistemas Programables            | Sistemas Programables            | Gestion de Proyectos de Software |
+| 15-16 | Gestion de Proyectos de Software | Gestion de Proyectos de Software | Gestion de Proyectos de Software | Gestion de Proyectos de Software | Gestion de Proyectos de Software |
+| 16-17 | Lenguajes y Automatas II         | Lenguajes y Automatas II         | Lenguajes y Automatas II         | Lenguajes y Automatas II         | Lenguajes y Automatas II         |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
