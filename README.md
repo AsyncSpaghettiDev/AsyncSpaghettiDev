@@ -12,6 +12,8 @@
 - C# (Windows Forms)
  
 - Horario:
+
+
 |       | L                                | M                                | X                                | J                                | V                                |
 |-------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
 | 13-14 | Taller de Investigación          | Taller de Investigación          | Taller de Investigación          | Taller de Investigación          |                                  |
