@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://avatars.githubusercontent.com/u/60447812?v=4" style="aspect-ratio: 1; width:150px; border-radius: 50%">
+<img src="https://avatars.githubusercontent.com/u/60447812?v=4" style="aspect-ratio: 1; width:150px; border-radius: "50%" ">
 
 - 🔭 I’m Frontend Web Developer
 - Technologies used:
