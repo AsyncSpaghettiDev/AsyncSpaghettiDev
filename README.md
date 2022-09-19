@@ -26,4 +26,4 @@ eotapp.onrender.com
 | 15-16 | Gestion de Proyectos de Software | Gestion de Proyectos de Software | Gestion de Proyectos de Software | Gestion de Proyectos de Software | Gestion de Proyectos de Software |
 | 16-17 | Lenguajes y Automatas II         | Lenguajes y Automatas II         | Lenguajes y Automatas II         | Lenguajes y Automatas II         | Lenguajes y Automatas II         |
 
-[](https://github-readme-stats.vercel.app/api?username=AsyncSpaghettiDev&show_icons=true&theme=synthwave)
+![](https://github-readme-stats.vercel.app/api?username=AsyncSpaghettiDev&show_icons=true&theme=synthwave)
