@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<img src="https://avatars.githubusercontent.com/u/60447812?v=4" style="aspect-ratio: 1; width:250px; border-radius: 2em ">
+<!--
+ <img src="https://avatars.githubusercontent.com/u/60447812?v=4" style="aspect-ratio: 1; width:250px; border-radius: 2em "> */
+-->
 
 - 🔭 I’m Frontend Web Developer
 - Technologies used:
@@ -15,7 +17,7 @@ Actually working on:
 eotApp  
 eotapp.onrender.com  
 
- 
+<!-- 
 - Horario:
 
 
@@ -25,5 +27,6 @@ eotapp.onrender.com
 | 14-15 | Sistemas Programables            | Sistemas Programables            | Sistemas Programables            | Sistemas Programables            | Gestion de Proyectos de Software |
 | 15-16 | Gestion de Proyectos de Software | Gestion de Proyectos de Software | Gestion de Proyectos de Software | Gestion de Proyectos de Software | Gestion de Proyectos de Software |
 | 16-17 | Lenguajes y Automatas II         | Lenguajes y Automatas II         | Lenguajes y Automatas II         | Lenguajes y Automatas II         | Lenguajes y Automatas II         |
+-->
 
 ![](https://github-readme-stats.vercel.app/api?username=AsyncSpaghettiDev&show_icons=true&theme=synthwave)
