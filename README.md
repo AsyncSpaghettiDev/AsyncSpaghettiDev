@@ -13,7 +13,7 @@
 - React Native
 - C# (Windows Forms)
 
-Actually working on:  
+Last project:  
 eotApp  
 <https://eotapp.onrender.com/>
 
