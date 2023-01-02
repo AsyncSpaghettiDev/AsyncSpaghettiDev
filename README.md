@@ -6,27 +6,20 @@
 
 - 🔭 I’m Frontend Web Developer
 - Technologies used:
-- React JS
-- Express
-- Node JS
-- Maria DB
-- React Native
-- C# (Windows Forms)
+• HTML5 (HTML, CSS, JS) 
+• SASS 
+• React (NextJS) 
+• Express (NestJS) 
+• Python (Flask, Django) 
+• Typescript 
+• React Native 
+• Database (MySQL, Postgres, MSSQL) 
+• Git (Github)
+• C# (Windows Forms)
 
 Last project:  
 eotApp  
-<https://eotapp.onrender.com/>
+<https://eot.vercel.app/>
 
-<!-- 
-- Horario:
-
-
-|       | L                                | M                                | X                                | J                                | V                                |
-|-------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
-| 13-14 | Taller de Investigación          | Taller de Investigación          | Taller de Investigación          | Taller de Investigación          |                                  |
-| 14-15 | Sistemas Programables            | Sistemas Programables            | Sistemas Programables            | Sistemas Programables            | Gestion de Proyectos de Software |
-| 15-16 | Gestion de Proyectos de Software | Gestion de Proyectos de Software | Gestion de Proyectos de Software | Gestion de Proyectos de Software | Gestion de Proyectos de Software |
-| 16-17 | Lenguajes y Automatas II         | Lenguajes y Automatas II         | Lenguajes y Automatas II         | Lenguajes y Automatas II         | Lenguajes y Automatas II         |
--->
 
 ![](https://github-readme-stats.vercel.app/api?username=AsyncSpaghettiDev&show_icons=true&theme=synthwave)
