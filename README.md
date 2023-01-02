@@ -6,16 +6,16 @@
 
 - 🔭 I’m Frontend Web Developer
 - Technologies used:
-• HTML5 (HTML, CSS, JS) 
-• SASS 
-• React (NextJS) 
-• Express (NestJS) 
-• Python (Flask, Django) 
-• Typescript 
-• React Native 
-• Database (MySQL, Postgres, MSSQL) 
-• Git (Github)
-• C# (Windows Forms)
+• HTML5 (HTML, CSS, JS)  
+• SASS  
+• React (NextJS)  
+• Express (NestJS)  
+• Python (Flask, Django)  
+• Typescript  
+• React Native  
+• Database (MySQL, Postgres, MSSQL)  
+• Git (Github)  
+• C# (Windows Forms)  
 
 Last project:  
 eotApp  
