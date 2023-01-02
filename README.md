@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m Frontend Web Developer
-- Technologies used:  
+- Technologies:  
 • HTML5 (HTML, CSS, JS)  
 • SASS  
 • React (NextJS)  
