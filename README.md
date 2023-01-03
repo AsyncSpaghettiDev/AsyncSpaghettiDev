@@ -23,4 +23,4 @@ eotApp
 
 
 ![General Info](https://github-readme-stats.vercel.app/api?username=AsyncSpaghettiDev&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsyncSpaghettiDev&layout=compact&theme=synthwave)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsyncSpaghettiDev&theme=synthwave)]
