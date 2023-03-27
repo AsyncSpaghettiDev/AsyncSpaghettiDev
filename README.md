@@ -19,7 +19,7 @@
 
 Last project:  
 eotApp  
-<[https://www.jonathanmov.codes.com](https://www.jonathanmov.codes)>
+[https://www.jonathanmov.codes.com](https://www.jonathanmov.codes)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsyncSpaghettiDev&theme=synthwave)  
